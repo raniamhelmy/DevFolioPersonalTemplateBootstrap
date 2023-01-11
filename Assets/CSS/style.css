@@ -285,7 +285,7 @@ nav {
   font-size: 0.8rem;
 }
 
-.portfolio__container .moral__btn {
+.portfolio__container .modal__btn {
   border-radius: 50%;
 }
 
@@ -322,6 +322,20 @@ nav {
   object-fit: contain;
   text-align: center;
   margin: auto;
+}
+
+.modal-content{
+  background-color: #E0E2E3;
+}
+
+.modal-footer{
+  justify-content: start;
+  background-color: rgba(255, 255, 255, 0.1);
+  font-weight: bold;
+}
+
+.modal-header{
+  background-color: rgba(255, 255, 255, 0.1);
 }
 
 /*************************************************************************************************/
@@ -568,7 +582,7 @@ a.form__button:hover {
   .about__container {
     max-width: 20.625rem;
   }
-  
+
   .col-md-3.aboutD__list {
     width: 80%;
   }
