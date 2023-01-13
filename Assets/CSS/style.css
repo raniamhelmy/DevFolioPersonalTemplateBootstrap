@@ -405,6 +405,13 @@ nav {
   border: 1px solid #ced4da;
   border-radius: 0.25rem;
   margin-bottom: 20px;
+  transition: border-color 0.15s linear, box-shadow 0.15s linear;
+}
+
+.form__input:focus {
+  outline: none; /*!important; */
+  border: 1px solid rgb(188, 188, 253);
+  box-shadow: 0 0 10px #719ece;
 }
 
 ::placeholder {
