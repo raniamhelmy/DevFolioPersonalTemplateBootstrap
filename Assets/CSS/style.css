@@ -20,9 +20,9 @@ html {
 }
 
 /*******************************************NavBar Section*****************************************/
-nav {
-  z-index: 999;
-}
+ /*nav {
+  z-index: 999; 
+}*/
 .navbar-dark .navbar-nav .nav-link.active,
 .navbar-dark .navbar-nav .show > .nav-link {
   color: #fff;
