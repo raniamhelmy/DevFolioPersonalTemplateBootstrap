@@ -16,7 +16,7 @@ This is a Template Personal Portfolio Named as Morgan Freeman. It was created as
 <ul>
   <li>CSS</li>
   <li>HTML 5</li>
-  <li>Bootstrap</li>
+  <li>Bootstrap 5</li>
  </ul>
   
 ### Tools & Libraries  
